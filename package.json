@@ -1,0 +1,17 @@
+{
+	"name": "v1",
+	"description": "v1",
+	"version": "0.0.1",
+	"dependencies": {
+		"express": "*",
+		"ejs": "*",
+		"express-session": "*",
+		"body-parser": "*",
+		"formidable": "latest",
+		"exif": "*"
+	},
+	"scripts": {
+		"start": "node server.js"
+	},
+	"engine": "*"
+}
